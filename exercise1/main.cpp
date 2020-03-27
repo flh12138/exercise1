@@ -22,6 +22,7 @@ int main()
 		imshow("MedianBlurMat", MedianBlurMat);
 		imshow("frame", frame);
 		waitKey(30);
+
 	}
 
 
